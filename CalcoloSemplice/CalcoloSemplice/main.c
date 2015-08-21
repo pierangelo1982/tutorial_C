@@ -25,4 +25,17 @@ int main(void)
     // divisione
     float divisione = (float) num1 / (float) num2;
     printf("%d diviso %d fa %f", num1, num2, divisione);  // definito divisione con %f xchè float;
+    
+    
+    // sottrazione
+    int sottrazione = num1 - num2;
+    printf("\n\n %d meno %d risulta %d \n\n", num1, num2, sottrazione);
+    
+    // percentuale
+    double perc = (num1 + num2) * 22;
+    double percentuale = perc / 100;
+    printf("il 22\%% di %d + %d è %f", num1, num2, percentuale);  // per far apparire % in printf \%%
+    
+    return 0;
+    
 }
