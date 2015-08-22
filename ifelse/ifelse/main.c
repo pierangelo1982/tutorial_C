@@ -21,5 +21,7 @@ int main(void) {
     else {
         printf("sei stato bocciato");
     }
+    
+    return 0;
 
 }
