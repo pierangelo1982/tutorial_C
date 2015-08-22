@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F99BEB84-537B-4F26-A07F-E2870D3EE7D7</string>
+	<string>5BC2D871-B6F6-44ED-89CC-AFB3F858F538</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CalcoloSemplice</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>33E51E442474414DE8F1251915B4B15C555A0DEA</key>
 		<string>https://github.com/pierangelo1982/tutorial_C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CalcoloSemplice/CalcoloSemplice.xcodeproj</string>
+	<string>ifOperatori/ifOperatori.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>33E51E442474414DE8F1251915B4B15C555A0DEA</key>

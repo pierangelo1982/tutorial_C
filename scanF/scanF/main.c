@@ -21,6 +21,8 @@ int main(void)
     printf("inserisci secondo numero \n");
     scanf("%d", &numero2);
     
+    /*il simbolo & è un operatore di indirizzo, che combinato con nome variabile indica allocazione di memoria dove immagazinato valore della variabile */
+    
     somma = numero1 + numero2;  // operazione di somma
     
     printf("il totale è: %d\n", somma);
