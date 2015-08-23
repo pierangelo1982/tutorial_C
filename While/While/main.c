@@ -19,14 +19,15 @@ int main(void) {
     contatore = 0;
     totale = 0;
     
-    while (contatore <= 5) {
+    while (contatore <= 10) {
         printf("Inserisci voto ");
         scanf("%d", &voto);
         totale = totale + voto; // al totale della riga precedente aggiungo il voto, e via cosi riga x riga del loop
         contatore = contatore + 1; // idem per il contatore, aggiungo 1 per ogni riga del loop while
     }
     
-    media = totale / contatore;
+    //media = totale / 10;
+    media = totale / contatore;  // calcolo della media totale voti diviso alunni
     
     printf("La media della classe è %d", media);
     

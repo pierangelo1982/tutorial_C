@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DA67ED42-AA92-4A5E-A9AE-D9242F575CFD</string>
+	<string>50C3EEBA-4BFF-47EC-84C5-837476870535</string>
 	<key>IDESourceControlProjectName</key>
-	<string>While</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>33E51E442474414DE8F1251915B4B15C555A0DEA</key>
 		<string>https://github.com/pierangelo1982/tutorial_C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>While/While.xcodeproj</string>
+	<string>WhileV2/WhileV2.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>33E51E442474414DE8F1251915B4B15C555A0DEA</key>
