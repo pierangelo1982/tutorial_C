@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 
-// testo operatori incremento nella pratica
+// testo operatori incremento nella pratica, usando il solito esempio della media dei voti
 int main(void)
 {
     
