@@ -26,13 +26,22 @@ int main(void) {
     a = ++a;
     printf("il risultato è %d\n", a);
     
-    /* post incremento
+    //post incremento
     a = a++;
-    printf("il risultato è %d\n", a); */
+    printf("il risultato è %d\n", a);
     
     // per incremento
     a *= 3;
     printf("il risultato è %d \n", a);
+    
+    // operatore decremento
+    a = --a;
+    printf("il risultato è %d \n", a);
+    
+    // post decremento
+    a = a--;
+    printf("il risultato è %d \n", a);
+    
     
     return 0;
 }
