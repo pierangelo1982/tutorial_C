@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E79F348D1BA8E6DA00402177"
-               BuildableName = "ForLoop"
-               BlueprintName = "ForLoop"
-               ReferencedContainer = "container:ForLoop.xcodeproj">
+               BlueprintIdentifier = "E79F34A01BA8E83400402177"
+               BuildableName = "ForLoop_varie"
+               BlueprintName = "ForLoop_varie"
+               ReferencedContainer = "container:ForLoop_varie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E79F348D1BA8E6DA00402177"
-            BuildableName = "ForLoop"
-            BlueprintName = "ForLoop"
-            ReferencedContainer = "container:ForLoop.xcodeproj">
+            BlueprintIdentifier = "E79F34A01BA8E83400402177"
+            BuildableName = "ForLoop_varie"
+            BlueprintName = "ForLoop_varie"
+            ReferencedContainer = "container:ForLoop_varie.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E79F348D1BA8E6DA00402177"
-            BuildableName = "ForLoop"
-            BlueprintName = "ForLoop"
-            ReferencedContainer = "container:ForLoop.xcodeproj">
+            BlueprintIdentifier = "E79F34A01BA8E83400402177"
+            BuildableName = "ForLoop_varie"
+            BlueprintName = "ForLoop_varie"
+            ReferencedContainer = "container:ForLoop_varie.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E79F348D1BA8E6DA00402177"
-            BuildableName = "ForLoop"
-            BlueprintName = "ForLoop"
-            ReferencedContainer = "container:ForLoop.xcodeproj">
+            BlueprintIdentifier = "E79F34A01BA8E83400402177"
+            BuildableName = "ForLoop_varie"
+            BlueprintName = "ForLoop_varie"
+            ReferencedContainer = "container:ForLoop_varie.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

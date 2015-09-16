@@ -8,8 +8,10 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main(void) {
+    int contatore;
+    for (contatore = 0; contatore<=10; contatore++) {
+        printf("il contatore è: %d\n", contatore);
+    }
     return 0;
 }
