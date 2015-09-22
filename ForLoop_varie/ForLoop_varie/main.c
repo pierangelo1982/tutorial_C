@@ -21,7 +21,7 @@ int main() {
     }
     
     // incremento proporzionale
-    for (contatore = 0; contatore <= 80; contatore += contatore) {
+    for (contatore = 1; contatore <= 80; contatore += contatore) {
         printf("%d \n", contatore);
     }
     
