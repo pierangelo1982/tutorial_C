@@ -6,7 +6,9 @@
 //  Copyright (c) 2015 pierangelo. All rights reserved.
 //
 
+
 #include <stdio.h>
+#include <string.h>
 
 int main(void) {
     
@@ -16,7 +18,7 @@ int main(void) {
     scanf("%s", &parola);  // %s invece di %d perchè è una stringa (char) e non un numero (int)
     
     
-    int totale = strlen(&parola);  // strlen conta lunghezza caratteri
+    int totale = strlen(&parola);
     printf("il tuo nome è lungo %d caratteri\n", totale);
     
     return 0;
