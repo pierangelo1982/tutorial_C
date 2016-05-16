@@ -9,20 +9,17 @@
 #include <stdio.h>
 #include <math.h>
 
-
 int main()
 {
     char *decimale;
-    int lunghezza;
+    long lunghezza;
     int contatore;
     int totale;
     
     decimale = "11000000";
     lunghezza = strlen(decimale);
+    
     totale = 0;
-    
-    printf("%i\n", lunghezza);
-    
     contatore = 0;
     
     while (0 <= lunghezza)
@@ -37,5 +34,5 @@ int main()
     }
     
     printf("la conversione risulta: %d\n", totale);
-    return 0;
+    return totale;
 }
